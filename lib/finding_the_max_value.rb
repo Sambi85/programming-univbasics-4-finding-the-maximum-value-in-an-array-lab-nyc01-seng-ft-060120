@@ -4,7 +4,7 @@ counter = 0
 while counter < array.length do
 
 if array[counter] >= 5 
-return array[counter]
+print array[counter]
 end
 
 counter += 1
